@@ -1,9 +1,12 @@
 /* Css for Personal Profile */
+body {
+	background-color: #333;
+}
 
 .box {
 	width:700px;
 	height:350px;
-    margin: 20px auto;
+    margin: 60px auto;
     padding: 10px 20px;
     box-shadow: 0 1px 1px rgba(0,0,0,0.15);
     background-color: #fff;
@@ -20,4 +23,10 @@ h1 {
 	color:grey;
 	font-family: Verdana;
 	text-align: center;
+}
+
+.info {
+	margin-top: -232px;
+    float: right;
+    padding-right: 100px;
 }
